@@ -101,7 +101,41 @@ h2.educationname{
 
 }
 .bottomsection2{
-    height: 400px;
+    height: 200px;
+    
 }
 
+.bottomdiv{
+    border: 1px solid black;
+    height: 200px;
+    background-image: url("background/Group1.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+    border:1px solid black;
+    
+    
+}
+.bottomdiv h2{
+margin-top: 7%;
+    margin-left: 30%;
+    border:1px solid black;
+    color: white;
+    float: left;
 
+}
+.bottomdiv a{
+text-decoration: none;
+margin-top: 7%;
+margin-left: 5%;
+border: 1px solid tomato;
+background-image: linear-gradient(40deg,lightsalmon,tomato);
+border-radius: 7px;
+padding: 7px;
+float: left;
+
+}
+
+.iconimg img{
+    
+}
